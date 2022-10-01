@@ -23,5 +23,5 @@ aws s3 컨테이너 설정, IM 사용자 생성 및 인증키 - 깃허브에서 
 퍼블릭 액세스 차단(버킷설정) 정책 JSON 변경 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-language-overview.html
 
-빌드 된 결과물
+빌드 된 결과물 (정상작동 확인 후 현재는 비활성화)
 Prototype: http://react-deploy-action-test-bucket.s3-website.ap-northeast-2.amazonaws.com/
