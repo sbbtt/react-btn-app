@@ -13,7 +13,10 @@ test('minus button has correct text', () => {
 
 ## 깃허브 액션을 통한 aws 컨테이너 자동배포
 
-node.js configure 안의 xml 파일 작성 및 aws s3 컨테이너 정보 붙여넣기
+node.js configure 안의 yml 파일 작성 및 aws s3 컨테이너 정보 붙여넣기
+참고한 s3-action: https://github.com/awact/s3-action
+
+정적 웹 사이트 호스팅 편집 - 정적 호스팅을 위한 엔드포인트 제공
 
 aws s3 컨테이너 설정, IM 사용자 생성 및 인증키 - 깃허브에서 시크릿으로 환경변수화
 
